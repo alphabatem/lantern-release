@@ -5,4 +5,5 @@ To use Lantern, an Flux RPC API key is required. You can get a free one at the [
 
 Also see this repository for a tool to help you benchmark Lantern: https://github.com/alphabatem/RPC_tests
 
-For more information, visit the [Lantern Websire](https://fluxrpc.com/lantern)
+For more information, visit the [Lantern Website](https://fluxrpc.com/lantern)
+
